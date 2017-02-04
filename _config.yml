@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: DamePage
 description: About Damekichi
-show_downloads: false
+show_downloads: true
